@@ -1,10 +1,10 @@
 {
-  "name": "img2pixel",
+  "name": "pixler",
   "version": "1.0.0",
   "description": "It convert image to pixel art.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grapgrap/img2pixel.git"
+    "url": "https://github.com/grapgrap/pixler.git"
   },
   "author": "JongHyen Kim <fussaep@gmail.com>",
   "main": "index.js",
