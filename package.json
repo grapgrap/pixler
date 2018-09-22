@@ -1,13 +1,13 @@
 {
   "name": "pixler",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "It convert image to pixel art.",
   "repository": {
     "type": "git",
     "url": "https://github.com/grapgrap/pixler.git"
   },
   "author": "JongHyen Kim <fussaep@gmail.com>",
-  "main": "index.js",
+  "main": "pixler.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc"
